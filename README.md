@@ -19,8 +19,8 @@
 
         cd BlogIn10Minutes
         sbt
-        update
-        jetty-run
+        > update
+        > jetty-run
 
 4. Point your favorite browser to <http://localhost:8080/> and try out
    the app.
