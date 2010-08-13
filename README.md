@@ -22,10 +22,5 @@
         update
         jetty-run
 
-4. Point your favorite browser to <http://localhost:8080/>:
-
-        w3m http://localhost:8080/
-
-   ![Hacker Blogging](w3m_hacker_blogging.png "Hacker Blogging")
-
-   What?  w3m isn't your favorite browser!?
+4. Point your favorite browser to <http://localhost:8080/> and try out
+   the app.
